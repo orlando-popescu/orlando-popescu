@@ -1,4 +1,16 @@
-### Hi there 👋
+## Orlando Popescu 
+
+#### I am a Software developer based in Stevenage, UK :uk:
+--------------- 
+### Tech stack :hammer_and_wrench:
+* .NET
+* ASP.NET
+* Sitecore
+* SQL Server/ MySQL
+* REST APIs
+* Microservices
+* CICD pipelines
+
 
 <!--
 **orlando-popescu/orlando-popescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
