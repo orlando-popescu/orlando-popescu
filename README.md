@@ -1,6 +1,6 @@
 ## Hi there :wave:
 
-##### I'm Orlando Popescu, Software developer based in Stevenage, UK :uk:
+##### I'm Orlando Popescu, Software developer based in Leighton Buzzard, UK :uk:
 ---
 ### Tech stack :hammer_and_wrench:
 * .NET
